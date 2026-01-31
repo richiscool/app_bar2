@@ -52,12 +52,14 @@ class _MyHomePageState extends State<MyHomePage> {
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.amber,
+                  // Change width and height to a number of your choice
                   width: 488,
                   height: 100,
                 ),
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.amber,
+                  // Change width and height to a number of your choice
                   width: 488,
                   height: 100,
                 ),
@@ -69,6 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.lightGreenAccent,
+                  // Change width and height to a number of your choice
                   width: 1000,
                   height: 90,
                 ),
@@ -80,18 +83,21 @@ class _MyHomePageState extends State<MyHomePage> {
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.blueAccent,
+                  // Change width and height to a number of your choice
                   width: 320.333333333,
                   height: 100,
                 ),
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.amber,
+                  // Change width and height to a number of your choice
                   width: 320.333333333,
                   height: 100,
                 ),
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.pink,
+                  // Change width and height to a number of your choice
                   width: 320.333333333,
                   height: 100,
                 ),
@@ -103,6 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 Container(
                   margin: const EdgeInsets.all(10.0),
                   color: Colors.red,
+                  // Change width and height to a number of your choice
                   width: 1000,
                   height: 500,
                 ),
